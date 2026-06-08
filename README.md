@@ -112,6 +112,12 @@ Recently, we've included visualization tools. And here's one [Netron](https://lu
 * [mtcnn](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 * [deephorizon](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
+# APIs & Services
+
+*Hosted services and APIs for iOS/macOS AI development*
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 # Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 * Distributed under the MIT license. See LICENSE for more information.
